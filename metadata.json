@@ -1,0 +1,1622 @@
+[
+    {
+      "file_name": "academic-cap.svg",
+      "tags": ["academy", "cap", "icon", "study", "education", "school", "graduation", "student", "university", "scholar", "knowledge", "learning", "degree", "achievement"],
+      "style": "outline",
+      "author": "open-source"
+    },
+    {
+      "file_name": "adjustments-horizontal.svg",
+      "tags": ["adjustments", "horizontal", "icon", "settings", "controls", "sliders", "configuration", "preferences", "customization", "user-interface"],
+      "style": "outline",
+      "author": "open-source"
+    },
+    {
+        "file_name": "adjustments-vertical.svg",
+        "tags": ["adjustments", "vertical", "icon", "settings", "controls", "sliders", "configuration", "preferences", "customization", "user-interface"],
+        "style": "outline",
+        "author": "open-source"
+      },
+      {
+        "file_name": "archive-box-arrow-down.svg",
+        "tags": ["archive", "box", "arrow", "down", "icon", "storage", "download", "files", "data", "backup", "folder", "upload", "transfer"],
+        "style": "outline",
+        "author": "open-source"
+      },
+      {
+        "file_name": "archive-box-x-mark.svg",
+        "tags": ["archive", "box", "x-mark", "icon", "storage", "files", "data", "backup", "folder", "delete", "remove"],
+        "style": "outline",
+        "author": "open-source"
+      },
+      {
+        "file_name": "archive-box",
+        "tags": ["archive", "box", "icon", "storage", "files", "data", "backup", "folder", "container", "organization", "management", "catalog"],
+        "style": "outline",
+        "author": "open-source"
+      },
+      {
+        "file_name": "archive-box",
+        "tags": ["archive", "box", "icon", "storage", "files", "data", "backup", "folder", "container", "organization", "management", "catalog"],
+        "style": "outline",
+        "author": "open-source"
+      },
+        {
+            "file_name": "arrow-down-circle.svg",
+            "tags": ["arrow", "down", "circle", "icon", "direction", "navigation", "download", "movement", "flow", "transfer"],
+            "style": "outline",
+            "author": "open-source"
+        },
+        {
+            "file_name": "arrow-left-circle.svg",
+            "tags": ["arrow", "left", "circle", "icon", "direction", "navigation", "movement", "flow"],
+            "style": "outline",
+            "author": "open-source"
+        },
+        {
+            "file_name": "arrow-right-circle.svg",
+            "tags": ["arrow", "right", "circle", "icon", "direction", "navigation", "movement", "flow"],
+            "style": "outline",
+            "author": "open-source"
+        },
+        {
+            "file_name": "arrow-up-circle.svg",
+            "tags": ["arrow", "up", "circle", "icon", "direction", "navigation", "movement", "flow", "upload"],
+         	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "arrow-down.svg",
+            "tags": ["arrow", "down", "icon", "direction", "navigation", "movement", "flow", "download", "transfer"],
+            "style": "outline",
+            "author": "open-source"
+        },
+        {
+            "file_name": "arrow-left.svg",
+            "tags": ["arrow", "left", "icon", "direction", "navigation", "movement", "flow", "transfer"],
+            "style": "outline",
+            "author": "open-source"
+        },
+        {
+            "file_name": "arrow-right.svg",
+            "tags": ["arrow", "right", "icon", "direction", "navigation", "movement", "flow", "transfer"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "arrow-up.svg",
+            "tags": ["arrow", "up", "icon", "direction", "navigation", "movement", "flow", "upload"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "arrow-path.svg",
+            "tags": ["arrow", "path", "icon", "direction", "navigation", "movement", "flow", "transfer"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "arrow-path-rounded-square.svg",
+            "tags": ["arrow", "path", "rounded", "icon", "direction", "navigation", "movement", "flow", "transfer", "rounded-square", "rounded"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "arrow-right-on-rectangle.svg",
+            "tags": ["arrow", "right", "rectangle", "icon", "direction", "navigation", "movement", "flow", "transfer"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "arrow-small-down.svg",
+            "tags": ["arrow", "small", "down", "icon", "direction", "navigation", "movement", "flow"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "arrow-small-left.svg",
+            "tags": ["arrow", "small", "left", "icon", "direction", "navigation", "movement", "flow"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "arrow-small-right.svg",
+            "tags": ["arrow", "small", "right", "icon", "direction", "navigation", "movement", "flow"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "arrow-small-up.svg",
+            "tags": ["arrow", "small", "up", "icon", "direction", "navigation", "movement", "flow"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "arrow-top-right-on-square.svg",
+            "tags": ["arrow", "top", "right", "square", "icon", "direction", "navigation", "movement", "flow"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "arrow-trending-down.svg",
+            "tags": ["arrow", "trending", "down", "icon", "direction", "navigation", "movement", "flow"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "arrow-trending-up.svg",
+            "tags": ["arrow", "trending", "up", "icon", "direction", "navigation", "movement", "flow"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "arrow-uturn-down.svg",
+            "tags": ["arrow", "uturn", "down", "icon", "direction", "navigation", "movement", "flow"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "arrow-uturn-left.svg",
+            "tags": ["arrow", "uturn", "left", "icon", "direction", "navigation", "movement", "flow"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "arrow-uturn-right.svg",
+            "tags": ["arrow", "uturn", "right", "icon", "direction", "navigation", "movement", "flow"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "arrow-uturn-up.svg",
+            "tags": ["arrow", "uturn", "up", "icon", "direction", "navigation", "movement", "flow"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "arrows-pointing-in.svg",
+            "tags": ["arrows", "pointing", "in", "icon", "direction", "navigation", "movement", "flow"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "arrows-pointing-out.svg",
+            "tags": ["arrows", "pointing", "out", "icon", "direction", "navigation", "movement", "flow"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "at-symbol.svg",
+            "tags": ["at", "symbol", "icon", "email", "communication", "internet", "address", "contact"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "backward.svg",
+            "tags": ["backward", "icon", "navigation", "movement", "flow"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "banknotes.svg",
+            "tags": ["banknotes", "icon", "money", "currency", "finance", "wealth", "cash", "payment"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "bars-3-bottom-left.svg",
+            "tags": ["bars", "bottom", "left", "icon", "menu", "navigation", "hamburger"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "bars-3-bottom-right.svg",
+            "tags": ["bars", "bottom", "right", "icon", "menu", "navigation", "hamburger"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "bars-3-center-left.svg",
+            "tags": ["bars", "center", "left", "icon", "menu", "navigation", "hamburger"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "bars-3-center-right.svg",
+            "tags": ["bars", "center", "right", "icon", "menu", "navigation", "hamburger"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "bars-3.svg",
+            "tags": ["bars", "icon", "menu", "navigation", "hamburger"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "bars-4.svg",
+            "tags": ["bars", "icon", "menu", "navigation", "hamburger"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "bars-arrow-down.svg",
+            "tags": ["bars", "arrow", "down", "icon", "menu", "navigation", "hamburger"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "bars-arrow-up.svg",
+            "tags": ["bars", "arrow", "up", "icon", "menu", "navigation", "hamburger"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "bars-2.svg",
+            "tags": ["bars", "icon", "menu", "navigation", "hamburger"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "battery-0.svg",
+            "tags": ["battery", "icon", "power", "energy", "charge", "level", "indicator"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "battery-50.svg",
+            "tags": ["battery", "icon", "power", "energy", "charge", "level", "indicator"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "battery-100.svg",
+            "tags": ["battery", "icon", "power", "energy", "charge", "level", "indicator"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "beaker.svg",
+            "tags": ["beaker", "icon", "science", "experiment", "laboratory"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "bell-alert.svg",
+            "tags": ["bell", "alert", "icon", "notification", "warning", "reminder"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "bell-slash.svg",
+            "tags": ["bell", "slash", "icon", "notification", "mute", "silence"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "bell.svg",
+            "tags": ["bell", "icon", "notification", "alert"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "book-open.svg",
+            "tags": ["book", "open", "icon", "reading", "literature", "education", "knowledge"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "bolt.svg",
+            "tags": ["book", "icon", "reading", "literature", "education", "knowledge"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "bookmark-slash.svg",
+            "tags": ["bookmark", "slash", "icon", "reading", "literature", "education", "knowledge"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "bookmark.svg",
+            "tags": ["bookmark", "icon", "reading", "literature", "education", "knowledge"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "briefcase.svg",
+            "tags": ["briefcase", "icon", "business", "work", "job", "career", "professional"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "cake.svg",
+            "tags": ["cake", "icon", "food", "dessert", "celebration", "birthday"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "calculator.svg",
+            "tags": ["calculator", "icon", "math", "numbers", "finance", "calculation"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "calendar-days.svg",
+            "tags": ["calendar", "days", "icon", "date", "schedule", "time"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "calendar.svg",
+            "tags": ["calendar", "icon", "date", "schedule", "time"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "camera.svg",
+            "tags": ["camera", "icon", "photography", "photo", "image", "capture"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "chart-bar-square.svg",
+            "tags": ["chart", "bar", "square", "icon", "data", "statistics", "analytics"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "chart-bar.svg",
+            "tags": ["chart", "bar", "icon", "data", "statistics", "analytics"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "chart-pie.svg",
+            "tags": ["chart", "pie", "icon", "data", "statistics", "analytics"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "chart-bar-square-.svg",
+            "tags": ["chart", "square", "bar", "icon", "data", "statistics", "analytics"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "chat-bubble-bottom-center-text.svg",
+            "tags": ["chat", "bubble", "bottom", "center", "text", "icon", "communication"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "chat-bubble-bottom-center.svg",
+            "tags": ["chat", "bubble", "bottom", "center", "icon", "communication"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "chat-bubble-left-ellipsis.svg",
+            "tags": ["chat", "bubble", "left", "ellipsis", "icon", "communication"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "chat-bubble-left-right.svg",
+            "tags": ["chat", "bubble", "left", "right", "icon", "communication"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "chat-bubble-left.svg",
+            "tags": ["chat", "bubble", "left", "icon", "communication"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "chat-bubble-oval-left-ellipsis.svg",
+            "tags": ["chat", "bubble", "oval", "left", "ellipsis", "icon", "communication"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "chat-bubble-oval-left.svg",
+            "tags": ["chat", "bubble", "oval", "left", "icon", "communication"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "chat-bubble-oval-ellipsis.svg",
+            "tags": ["chat", "bubble", "oval", "ellipsis", "icon", "communication"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "check-badge.svg",
+            "tags": ["check", "badge", "icon", "verification", "approval", "confirmation"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "check-circle.svg",
+            "tags": ["check", "circle", "icon", "verification", "approval", "confirmation"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "chevron-double-down.svg",
+            "tags": ["chevron", "double", "down", "icon", "direction", "navigation"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "chevron-double-left.svg",
+            "tags": ["chevron", "double", "left", "icon", "direction", "navigation"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "chevron-double-right.svg",
+            "tags": ["chevron", "double", "right", "icon", "direction", "navigation"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "chevron-double-up.svg",
+            "tags": ["chevron", "double", "up", "icon", "direction", "navigation"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "chevron-down.svg",
+            "tags": ["chevron", "down", "icon", "direction", "navigation"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "chevron-left.svg",
+            "tags": ["chevron", "left", "icon", "direction", "navigation"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "chevron-right.svg",
+            "tags": ["chevron", "right", "icon", "direction", "navigation"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "chevron-up.svg",
+            "tags": ["chevron", "up", "icon", "direction", "navigation"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "circle-stack.svg",
+            "tags": ["circle", "stack", "icon", "shape", "design", "geometry"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "clipboard-document-check.svg",
+            "tags": ["clipboard", "document", "check", "icon", "note", "verification"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "clipboard-document-list.svg",
+            "tags": ["clipboard", "document", "list", "icon", "note"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "clipboard-document.svg",
+            "tags": ["clipboard", "document", "icon", "note"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "clipboard.svg",
+            "tags": ["clipboard", "icon", "note"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "clock.svg",
+            "tags": ["clock", "icon", "time", "schedule"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "cloud-arrow-down.svg",
+            "tags": ["cloud", "arrow", "down", "icon", "storage", "download"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "cloud-arrow-up.svg",
+            "tags": ["cloud", "arrow", "up", "icon", "storage", "upload"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "cloud.svg",
+            "tags": ["cloud", "icon", "storage", "internet", "data"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "code-bracket-square.svg",
+            "tags": ["code", "bracket", "square", "icon", "programming", "development"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "code-bracket.svg",
+            "tags": ["code", "bracket", "icon", "programming", "development"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "cog-6-tooth.svg",
+            "tags": ["cog", "6", "tooth", "icon", "settings", "gear", "mechanical"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "cog-8-tooth.svg",
+            "tags": ["cog", "8", "tooth", "icon", "settings", "gear", "mechanical"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "cog.svg",
+            "tags": ["cog", "icon", "settings", "gear", "mechanical"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "command-line.svg",
+            "tags": ["command", "line", "icon", "terminal", "console", "command-line-interface"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "computer-desktop.svg",
+            "tags": ["computer", "desktop", "icon", "technology", "screen", "monitor"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "cpu-chip.svg",
+            "tags": ["computer", "desktop", "slash", "icon", "technology", "screen", "monitor"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "credit-card.svg",
+            "tags": ["credit", "card", "icon", "finance", "payment", "transaction"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "cube.svg",
+            "tags": ["cube", "icon", "3d", "geometry", "shape"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "currency-pound.svg",
+            "tags": ["currency", "pound", "icon", "finance", "money", "currency-symbol"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "cursor-arrow-ripple.svg",
+            "tags": ["cursor", "arrow", "ripple", "icon", "pointer", "mouse"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "cursor-arrow-rays.svg",
+            "tags": ["cursor", "arrow", "rays", "icon", "pointer", "mouse"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "currency-bangladeshi.svg",
+            "tags": ["cursor", "paint", "icon", "pointer", "mouse"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "currency-euro.svg",
+            "tags": ["currency", "euro", "icon", "finance", "money", "currency-symbol"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "currency-rupee.svg",
+            "tags": ["currency", "rupee", "icon", "finance", "money", "currency-symbol"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "device-phone-mobile.svg",
+            "tags": ["device", "phone", "mobile", "icon", "technology", "communication"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "device-tablet.svg",
+            "tags": ["device", "tablet", "icon", "technology", "communication"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "document-arrow-down.svg",
+            "tags": ["document", "arrow", "down", "icon", "file", "download"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "document-arrow-up.svg",
+            "tags": ["document", "arrow", "up", "icon", "file", "upload"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "document-check.svg",
+            "tags": ["document", "check", "icon", "file", "verification"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "document-duplicate.svg",
+            "tags": ["document", "duplicate", "icon", "file", "copy"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "document-minus.svg",
+            "tags": ["document", "minus", "icon", "file", "removal"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "document-plus.svg",
+            "tags": ["document", "plus", "icon", "file", "addition"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "document-text.svg",
+            "tags": ["document", "text", "icon", "file", "text"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "document.svg",
+            "tags": ["document", "icon", "file"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "document-currency-pound.svg",
+            "tags": ["currency", "pound", "document", "icon", "file", "finance", "money"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "document-currency-dollar.svg",
+            "tags": ["currency", "dollar", "document", "icon", "file", "finance", "money"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "document-currency-euro.svg",
+            "tags": ["currency", "euro", "document", "icon", "file", "finance", "money"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "document-magnifying-glass.svg",
+            "tags": ["document", "magnifying", "glass", "icon", "file", "search"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "envelope.svg",
+            "tags": ["envelope", "icon", "email", "communication", "message"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "equals.svg",
+            "tags": ["equals", "icon", "mathematics", "equation", "comparison"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "ellipsis-horizontal.svg",
+            "tags": ["ellipsis", "horizontal", "icon", "menu", "navigation"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "ellipsis-horizontal-circle.svg",
+            "tags": ["ellipsis", "horizontal", "circle", "icon", "menu", "navigation"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "ellipsis-vertical.svg",
+            "tags": ["ellipsis", "vertical", "icon", "menu", "navigation"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "envelope-open.svg",
+            "tags": ["envelope", "open", "icon", "email", "communication", "message"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "exclamation-circle.svg",
+            "tags": ["exclamation", "circle", "icon", "warning", "alert"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "exclamation-triangle.svg",
+            "tags": ["exclamation", "triangle", "icon", "warning", "alert"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "eye-dropper.svg",
+            "tags": ["eye", "dropper", "icon", "color", "design"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "eye-slash.svg",
+            "tags": ["eye", "slash", "icon", "visibility", "privacy"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "eye.svg",
+            "tags": ["eye", "icon", "visibility"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "face-smile.svg",
+            "tags": ["face", "smile", "icon", "emotion", "expression", "happy"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "film.svg",
+            "tags": ["film", "icon", "media", "movie", "video"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "finger-print.svg",
+            "tags": ["finger", "print", "icon", "biometrics", "security"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "fire.svg",
+            "tags": ["fire", "icon", "flame", "heat"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "flag.svg",
+            "tags": ["flag", "icon", "symbol", "marker"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "folder-arrow-down.svg",
+            "tags": ["folder", "arrow", "down", "icon", "file", "download"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "folder-minus.svg",
+            "tags": ["folder", "minus", "icon", "file", "removal"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "folder-plus.svg",
+            "tags": ["folder", "plus", "icon", "file", "addition"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "folder-open.svg",
+            "tags": ["folder", "open", "icon", "file"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "folder.svg",
+            "tags": ["folder", "icon", "file"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "forward.svg",
+            "tags": ["forward", "icon", "navigation", "movement", "flow"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "funnel.svg",
+            "tags": ["funnel", "icon", "filter", "sorting"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "gift.svg",
+            "tags": ["gift", "icon", "present", "celebration", "holiday"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "globe-alt.svg",
+            "tags": ["globe", "alt", "icon", "world", "earth"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "globe-americas.svg",
+            "tags": ["globe", "americas", "icon", "world", "earth"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "hand-raised.svg",
+            "tags": ["hand", "raised", "icon", "gesture"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "hand-thumb-down.svg",
+            "tags": ["hand", "thumb", "down", "icon", "gesture"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "hand-thumb-up.svg",
+            "tags": ["hand", "thumb", "up", "icon", "gesture"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "hashtag.svg",
+            "tags": ["hashtag", "#", "tag", "icon", "label", "identifier"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "heart.svg",
+            "tags": ["heart", "<3", "icon", "love", "emotion"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "home.svg",
+            "tags": ["home", "icon", "house", "building", "residence"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "identification.svg",
+            "tags": ["identification", "icon", "identity", "profile", "user"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "home-modern.svg",
+            "tags": ["home", "modern", "icon", "house", "building", "residence"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "inbox-arrow-down.svg",
+            "tags": ["inbox", "arrow", "down", "icon", "mail", "download"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "inbox-stack.svg",
+            "tags": ["inbox", "stack", "icon", "mail", "storage"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "inbox.svg",
+            "tags": ["inbox", "icon", "mail"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "information-circle.svg",
+            "tags": ["information", "circle", "icon", "info", "details"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "key.svg",
+            "tags": ["key", "icon", "security", "access"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "italic.svg",
+            "tags": ["italic", "icon", "text", "font", "style"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "language.svg",
+            "tags": ["language", "icon", "programming", "development"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "lifebuoy.svg",
+            "tags": ["lifebuoy", "icon", "safety", "help", "support"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "light-bulb.svg",
+            "tags": ["light", "bulb", "icon", "idea", "creativity"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "link.svg",
+            "tags": ["link", "icon", "connection", "internet", "hyperlink"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "link-slash.svg",
+            "tags": ["link", "slash", "icon", "connection", "internet", "hyperlink"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "list-bullet.svg",
+            "tags": ["list", "bullet", "icon", "text", "formatting"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "lock-closed.svg",
+            "tags": ["lock", "closed", "icon", "security", "privacy"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "lock-open.svg",
+            "tags": ["lock", "open", "icon", "security", "privacy"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "magnifying-glass-circle.svg",
+            "tags": ["magnifying", "glass", "circle", "icon", "search"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "magnifying-glass-minus.svg",
+            "tags": ["magnifying", "glass", "minus", "icon", "search"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "magnifying-glass-plus.svg",
+            "tags": ["magnifying", "glass", "plus", "icon", "search"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "magnifying-glass.svg",
+            "tags": ["magnifying", "glass", "research", "icon", "search"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "map-pin.svg",
+            "tags": ["map", "pin", "icon", "location", "marker"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "map.svg",
+            "tags": ["map", "icon", "location", "navigation"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "megaphone.svg",
+            "tags": ["megaphone", "icon", "announcement", "communication"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "microphone.svg",
+            "tags": ["microphone", "icon", "audio", "sound", "recording"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "minus-circle.svg",
+            "tags": ["minus", "circle", "icon", "removal", "negative"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "minus-small.svg",
+            "tags": ["minus", "small", "icon", "removal", "negative"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "minus.svg",
+            "tags": ["minus", "delete", "icon", "removal", "negative"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "moon.svg",
+            "tags": ["moon", "icon", "night", "celestial", "space"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "musical-note.svg",
+            "tags": ["musical", "note", "icon", "music", "sound"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "newspaper.svg",
+            "tags": ["newspaper", "icon", "news", "media", "publication"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "no-symbol.svg",
+            "tags": ["no", "symbol", "icon", "prohibition", "forbidden"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "numbered-list.svg",
+            "tags": ["numbered", "list", "icon", "text", "formatting"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "paint-brush.svg",
+            "tags": ["paint", "brush", "icon", "art", "design"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "paper-airplane.svg",
+            "tags": ["paper", "airplane", "icon", "flight", "travel"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "paper-clip.svg",
+            "tags": ["paper", "clip", "icon", "attachment", "fastening"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "pause-circle.svg",
+            "tags": ["pause", "circle", "icon", "media", "video", "audio"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "pause.svg",
+            "tags": ["pause", "icon", "media", "video", "audio"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "pencil-square.svg",
+            "tags": ["pencil", "square", "icon", "writing", "editing"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "pencil.svg",
+            "tags": ["pencil", "icon", "writing", "editing"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "percent-badge.svg",
+            "tags": ["percent", "badge", "icon", "percentage", "discount"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "phone-arrow-down-left.svg",
+            "tags": ["phone", "arrow", "down", "left", "icon", "communication"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "phone-arrow-up-right.svg",
+            "tags": ["phone", "arrow", "up", "right", "icon", "communication"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "phone-x-mark.svg",
+            "tags": ["phone", "arrow", "x", "mark", "icon", "communication"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "phone.svg",
+            "tags": ["phone", "call", "mark", "icon", "communication"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "photo.svg",
+            "tags": ["photo", "icon", "image", "picture"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "play-circle.svg",
+            "tags": ["play", "circle", "icon", "media", "video", "audio"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "play-pause.svg",
+            "tags": ["play", "pause", "icon", "media", "video", "audio"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "play.svg",
+            "tags": ["play", "icon", "media", "video", "audio"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "plus-circle.svg",
+            "tags": ["plus", "circle", "icon", "addition", "positive"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "plus-small.svg",
+            "tags": ["plus", "small", "icon", "addition", "positive"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "plus.svg",
+            "tags": ["plus", "icon", "addition", "positive"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "power.svg",
+            "tags": ["power", "icon", "energy", "electricity"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "presentation-chart-bar.svg",
+            "tags": ["presentation", "chart", "bar", "icon", "data", "analytics"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "presentation-chart-line.svg",
+            "tags": ["presentation", "chart", "line", "icon", "data", "analytics"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "printer.svg",
+            "tags": ["printer", "icon", "printing", "output"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "puzzle-piece.svg",
+            "tags": ["puzzle", "piece", "icon", "game", "jigsaw"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "qr-code.svg",
+            "tags": ["qr", "code", "icon", "barcode", "scanning"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "question-mark-circle.svg",
+            "tags": ["question", "mark", "circle", "icon", "help", "inquiry"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "queue-list.svg",
+            "tags": ["queue", "list", "icon", "organization", "order"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "radio.svg",
+            "tags": ["radio", "icon", "broadcast", "communication"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "receipt-percent.svg",
+            "tags": ["receipt", "percent", "icon", "finance", "discount"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "receipt-refund.svg",
+            "tags": ["receipt", "refund", "icon", "finance", "return"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "rectangle-group.svg",
+            "tags": ["rectangle", "group", "icon", "shape", "design"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "rectangle-stack.svg",
+            "tags": ["rectangle", "stack", "icon", "shape", "design"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "rocket-launch.svg",
+            "tags": ["rocket", "launch", "icon", "space", "exploration"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "rss.svg",
+            "tags": ["rss", "icon", "feed", "subscription"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "scale.svg",
+            "tags": ["scale", "icon", "measurement", "balance"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "scissors.svg",
+            "tags": ["scissors", "icon", "cutting", "tools"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "server-stack.svg",
+            "tags": ["server", "stack", "icon", "storage", "data"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "server.svg",
+            "tags": ["server", "icon", "storage", "data"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "share.svg",
+            "tags": ["share", "icon", "communication", "distribution"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "shield-check.svg",
+            "tags": ["shield", "check", "icon", "security", "protection"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "shield-exclamation.svg",
+            "tags": ["shield", "exclamation", "icon", "security", "warning"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "shopping-bag.svg",
+            "tags": ["shopping", "bag", "icon", "commerce", "retail"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "shopping-cart.svg",
+            "tags": ["shopping", "cart", "icon", "commerce", "retail"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "signal-slash.svg",
+            "tags": ["signal", "slash", "icon", "communication", "interference"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "signal.svg",
+            "tags": ["signal", "icon", "communication", "strength"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "slash.svg",
+            "tags": ["slash", "icon", "cutting", "division"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "sparkles.svg",
+            "tags": ["sparkles", "icon", "magic", "shine"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "speaker-wave.svg",
+            "tags": ["speaker", "wave", "icon", "audio", "sound"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "speaker-x-mark.svg",
+            "tags": ["speaker", "x", "mark", "icon", "audio", "sound"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "square-2-stack.svg",
+            "tags": ["square", "2", "stack", "icon", "shape", "design"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "square-2-stack-3d.svg",
+            "tags": ["square", "2", "stack", "3d", "icon", "shape", "design"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "squares-2x2.svg",
+            "tags": ["squares", "2x2", "icon", "shape", "design"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "squares-plus.svg",
+            "tags": ["squares", "plus", "icon", "shape", "design"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "star.svg",
+            "tags": ["star", "icon", "rating", "favorite"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "stop-circle.svg",
+            "tags": ["stop", "circle", "icon", "media", "video", "audio"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "stop.svg",
+            "tags": ["stop", "icon", "media", "video", "audio"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "strikethrough.svg",
+            "tags": ["strikethrough", "icon", "text", "font", "style"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "sun.svg",
+            "tags": ["sun", "icon", "day", "light"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "swatch.svg",
+            "tags": ["swatch", "icon", "color", "design"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "table-cells.svg",
+            "tags": ["table", "cells", "icon", "data", "organization"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "tag.svg",
+            "tags": ["tag", "icon", "label", "identifier"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "ticket.svg",
+            "tags": ["ticket", "icon", "event", "admission"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "trash.svg",
+            "tags": ["trash", "icon", "delete", "removal"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "trophy.svg",
+            "tags": ["trophy", "icon", "award", "achievement"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "truck.svg",
+            "tags": ["truck", "icon", "transportation", "delivery"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "tv.svg",
+            "tags": ["tv", "icon", "television", "media"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "underline.svg",
+            "tags": ["underline", "icon", "text", "font", "style"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "user-circle.svg",
+            "tags": ["user", "circle", "icon", "profile", "identity"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "user-group.svg",
+            "tags": ["user", "group", "icon", "community", "social"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "user-minus.svg",
+            "tags": ["user", "minus", "icon", "profile", "removal"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "user-plus.svg",
+            "tags": ["user", "plus", "icon", "profile", "addition"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "user.svg",
+            "tags": ["user", "icon", "profile", "identity"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "users.svg",
+            "tags": ["user", "users", "icon", "community", "social"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "variable.svg",
+            "tags": ["variable", "icon", "programming", "development"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "video-camera-slash.svg",
+            "tags": ["video", "camera", "slash", "icon", "media", "privacy"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "video-camera.svg",
+            "tags": ["video", "camera", "icon", "media", "recording"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "view-columns.svg",
+            "tags": ["view", "columns", "icon", "layout", "organization"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "viewfinder-circle.svg",
+            "tags": ["viewfinder", "circle", "icon", "camera", "focus"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "wallet.svg",
+            "tags": ["wallet", "icon", "finance", "money"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "wifi.svg",
+            "tags": ["wifi", "icon", "wireless", "internet"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "window.svg",
+            "tags": ["window", "icon", "interface", "view"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "wrench-screwdriver.svg",
+            "tags": ["wrench", "screwdriver", "icon", "tools", "repair"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "wrench.svg",
+            "tags": ["wrench", "icon", "tools", "repair"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "x-circle.svg",
+            "tags": ["x", "circle", "icon", "removal", "negative"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        },
+        {
+            "file_name": "x-mark.svg",
+            "tags": ["x", "mark", "icon", "removal", "negative"],
+        	"style": 	"outline",
+        	"author": 	"open-source"
+        }
+  ]
