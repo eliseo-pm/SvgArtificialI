@@ -19,8 +19,8 @@ Este proyecto entrena un modelo de lenguaje basado en Transformers (como GPT-2) 
 1. Clona este repositorio:
 
 bash
-git clone https://github.com/tuusuario/svgai.git
-cd svgai
+git clone https://github.com/eliseo-pm/SvgArtificialI.git
+cd SvgArtificialI
 Crea y activa un entorno virtual:
 
 bash
