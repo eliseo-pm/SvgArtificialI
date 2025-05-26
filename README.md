@@ -19,33 +19,53 @@ Este proyecto entrena un modelo de lenguaje basado en Transformers (como GPT-2) 
 1. Clona este repositorio:
 
 bash
+
 git clone https://github.com/eliseo-pm/SvgArtificialI.git
+
 cd SvgArtificialI
+
 Crea y activa un entorno virtual:
 
 bash
+
 python3 -m venv venv
+
 source venv/bin/activate
+
 Instala dependencias:
 
 bash
+
 pip install -r requirements.txt
+
 O si no tienes requirements.txt:
 
 bash
+
 pip install torch transformers datasets accelerate
+
 ⚠️ Para soporte de GPU con CUDA (opcional):
 
 bash
+
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
 📁 Estructura esperada
+
 bash
+
 svgai/
+
 ├── train_svg_model.py
+
 ├── training_data.jsonl
+
 ├── logs/              # Se crea automáticamente durante entrenamiento
+
 ├── svg-model/         # Se crea automáticamente durante entrenamiento
+
 └── venv/              # Entorno virtual, lo creas tú
+
 ℹ️ Los directorios venv/, logs/ y svg-model/ han sido eliminados del repositorio para ahorrar espacio. Se generarán automáticamente al correr el proyecto localmente.
 
 ---
