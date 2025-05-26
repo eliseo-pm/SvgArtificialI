@@ -48,7 +48,9 @@ svgai/
 └── venv/              # Entorno virtual, lo creas tú
 ℹ️ Los directorios venv/, logs/ y svg-model/ han sido eliminados del repositorio para ahorrar espacio. Se generarán automáticamente al correr el proyecto localmente.
 
-🏋️ Entrenamiento
+---
+
+## 🏋️ Entrenamiento
 Ejecuta el script principal:
 
 bash
@@ -76,7 +78,9 @@ fp16=True
 
 report_to="none"
 
-🔄 Reanudar desde Checkpoint
+---
+
+## 🔄 Reanudar desde Checkpoint
 Si pausas el entrenamiento (ej. con Ctrl+C), puedes reanudarlo:
 
 Edita el script:
@@ -102,15 +106,21 @@ json
 {"prompt": "<svg ...>...</svg>"}
 Cada línea representa un SVG válido como texto.
 
-✅ Recomendaciones
+---
+
+## ✅ Recomendaciones
 Usa batch size pequeño si no tienes GPU potente.
 
 Usa fp16=True solo si tu GPU lo soporta.
 
 Haz pruebas con 1–2 epochs antes de un entrenamiento largo.
 
-🧑‍💻 Autor
-Desarrollado por [Tu Nombre o Alias]
+---
 
-📄 Licencia
+## 🧑‍💻 Autor
+Desarrollado por Elisei Nevenchenoi
+
+---
+
+## 📄 Licencia
 MIT
